@@ -1,0 +1,302 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+.logo {
+  font-size: 35px;
+  font-weight: bold;
+  margin-left: 67px;
+  color: white;
+}
+
+.sushi {
+  background-color: rgb(40, 60, 9) !important;
+}
+
+.gg {
+  transition: all 0.3s ease;
+}
+
+.gg:hover {
+  transform: scale(1.22);
+}
+
+.ss {
+  transition: all 0.3s ease;
+}
+.ss:hover {
+  transform: scale(1.22);
+}
+
+.sh {
+  transition: all 0.3s ease;
+}
+.sh:hover {
+  transform: scale(1.22);
+}
+
+.bb {
+  transition: all 0.3s ease;
+}
+.bb:hover {
+  transform: scale(1.22);
+}
+
+.aa {
+  transition: all 0.3s ease;
+}
+.aa:hover {
+  transform: scale(1.22);
+}
+
+.hh {
+  transition: all 0.3s ease;
+}
+.hh:hover {
+  transform: scale(1.25);
+}
+
+.chuchu {
+  margin-left: 577px !important;
+  display: flex;
+  gap: 30px;
+}
+
+.user {
+  height: 30px;
+  width: 30px;
+  transition: all 0.3s ease;
+}
+.user:hover {
+  transform: scale(1.25);
+}
+
+.shopp {
+  height: 26px;
+  width: 26px;
+  transition: all 0.3s ease;
+}
+
+.shopp:hover {
+  transform: scale(1.25);
+}
+
+.badadabba {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap-reverse;
+  height: 90vh;
+  width: 100%;
+  background-color: rgb(40, 60, 9);
+}
+
+.chotadabba1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.chotadabba2 {
+  width: 60%;
+}
+
+.sofa {
+  width: 100%;
+  height: 100%;
+  /* padding-left: 100px; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sofa img {
+  width: 100%;
+  object-fit: cover;
+  height: 80%;
+}
+
+h1,
+p {
+  color: white;
+}
+h1 {
+  font-size: 70px;
+  font-weight: bolder;
+  margin-bottom: 30px;
+}
+
+p {
+  margin-bottom: 30px;
+}
+
+.buttons {
+  display: flex;
+  gap: 20px;
+}
+
+.button1 {
+  background-color: yellow;
+  height: 40px;
+  width: 120px;
+  border-radius: 20px;
+  border: none;
+  transition: all ease-in-out 0.3s;
+}
+
+.button1:hover {
+  border: 2px solid yellow;
+  background: none;
+  color: rgb(255, 255, 255);
+}
+
+.button2 {
+  background-color: transparent;
+  height: 40px;
+  width: 120px;
+  border-radius: 20px;
+  border: 1px solid white;
+  color: white;
+  transition: all ease-in-out 0.3s;
+}
+
+.button2:hover {
+  border: 2px solid rgb(255, 255, 255);
+  background: white;
+  color: rgb(0, 0, 0);
+}
+
+.section2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+.subsection {
+  background-image: url("data:image/svg+xml,<svg id='patternId' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'><defs><pattern id='a' patternUnits='userSpaceOnUse' width='40' height='40' patternTransform='scale(2) rotate(0)'><rect x='0' y='0' width='100%' height='100%' fill='hsla(0,0%,100%,1)'/><path d='M40 45a5 5 0 110-10 5 5 0 010 10zM0 45a5 5 0 110-10 5 5 0 010 10zM0 5A5 5 0 110-5 5 5 0 010 5zm40 0a5 5 0 110-10 5 5 0 010 10z'  stroke-width='1' stroke='hsla(122, 81%, 89%, 1)' fill='none'/><path d='M20 25a5 5 0 110-10 5 5 0 010 10z'  stroke-width='1' stroke='hsla(88, 52%, 64%, 1)' fill='none'/></pattern></defs><rect width='800%' height='800%' transform='translate(0,0)' fill='url(%23a)'/></svg>");
+  border-top: 5px solid #000;
+}
+
+.sidedabba1 {
+  width: 50%;
+}
+
+.minidabba1 {
+  display: flex;
+  color: black;
+  gap: 10px;
+}
+.minidabba2 {
+  display: flex;
+  color: black;
+  gap: 10px;
+}
+.miabhai {
+  width: 60%;
+}
+
+.kymia {
+  /* padding-left: 100px; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.aremia {
+  height: 500px;
+  width: 450px;
+  object-fit: cover;
+  border-radius: 20px;
+  box-shadow: 2px 2px 10px;
+  transition: all 0.5s ease;
+}
+
+.h11 {
+  color: black;
+  font-size: xx-large;
+}
+
+.p22 {
+  color: black;
+}
+
+.mothadaba {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url("data:image/svg+xml,<svg id='patternId' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'><defs><pattern id='a' patternUnits='userSpaceOnUse' width='40' height='40' patternTransform='scale(2) rotate(0)'><rect x='0' y='0' width='100%' height='100%' fill='hsla(0,0%,100%,1)'/><path d='M40 45a5 5 0 110-10 5 5 0 010 10zM0 45a5 5 0 110-10 5 5 0 010 10zM0 5A5 5 0 110-5 5 5 0 010 5zm40 0a5 5 0 110-10 5 5 0 010 10z'  stroke-width='1' stroke='hsla(122, 81%, 89%, 1)' fill='none'/><path d='M20 25a5 5 0 110-10 5 5 0 010 10z'  stroke-width='1' stroke='hsla(88, 52%, 64%, 1)' fill='none'/></pattern></defs><rect width='800%' height='800%' transform='translate(0,0)' fill='url(%23a)'/></svg>");
+  border-top: 5px solid #000;
+}
+
+.madhyamdaba {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.heman {
+  color: black;
+  font-size: 55px;
+}
+
+.heman2 {
+  color: black;
+}
+
+.mamu {
+  background-color: rgb(0, 0, 0);
+  height: 40px;
+  width: 120px;
+  border-radius: 20px;
+  border: none;
+  color: white;
+  transition: all ease-in-out 0.3s;
+}
+
+.mamu:hover {
+  /* transform: scale(1.06); */
+  border: 2px solid black;
+  background: none;
+  color: black;
+}
+.chotadaba1 {
+  margin-left: 30px;
+}
+
+.chotadaba2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.chotadaba3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.chotadaba4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.khurchi1 {
+  height: 380px;
+  width: 300px;
+}
+
+.khurchi2 {
+  height: 380px;
+  width: 300px;
+}
+.khurchi3 {
+  height: 380px;
+  width: 300px;
+}
